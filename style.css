@@ -1,0 +1,14 @@
+body {
+	background: pink;
+	display: inline;
+	padding-bottom: 1vw;
+	text-align: center;
+}
+
+.search-input {
+	padding: 0.5vw;
+}
+
+:invalid {
+	box-shadow: 3px 3px 3px 3px red;
+}
