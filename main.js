@@ -6,3 +6,4 @@ searchBar.addEventListener('input', function (evt) {
 });
 
 // test for vscode.dev
+// test for vscode.dev on iPhone
