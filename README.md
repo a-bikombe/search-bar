@@ -2,7 +2,7 @@
 
 ***April 2022***
 
-Semester project from my fourth semester at NCC.
+Simple search bar.
 
 ## Used In This Repository
 
