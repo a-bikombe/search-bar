@@ -12,12 +12,6 @@ Simple search bar.
 
 ## Getting Started
 
-### Dependencies
-
-No dependencies.
-
-### Setup
-
 * Deployment: Must be run with a local server
 
 ## Version History
